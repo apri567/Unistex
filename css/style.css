@@ -1,0 +1,21 @@
+:root {
+    --color1: #4FFFCA;
+    --color2: #0E1314;
+}
+body {
+    background-color: var(--color2);
+    font-family: Montserrat;
+}
+nav a {
+    /*padding: 30px 300px;*/
+    font-size: 14px;
+}
+nav .line {
+    width: 2px;
+    height: 35px;
+    background-color: white;
+}
+/* Цвет */
+.color1 {
+    color: #4FFFCA!important;
+}
